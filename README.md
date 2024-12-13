@@ -6,7 +6,7 @@ The **`ft_printf`** project is a major part of the 42 *Cursus* that involves cre
 
 ### Objectives:
 1. **Recreate `printf`**:  
-   - Implement the `printf` function to handle different format specifiers, like `%d`, `%s`, `%x`, and `%c`.
+   - Implement the `printf` function to handle different format specifiers, like `%d`, `%s`, `%x`, and `%c`...
    - Properly convert various types (strings, integers, pointers) to the right format for output.
 
 2. **Master Variadic Functions**:  
