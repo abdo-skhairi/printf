@@ -1,5 +1,3 @@
-![ALt text](https://raw.githubusercontent.com/abdo-skhairi/printf/refs/heads/main/image.jpg)
-
 ### Summary of the `ft_printf` Project in 42 Cursus
 
 The **`ft_printf`** project is a major part of the 42 *Cursus* that involves creating your own version of the `printf` function. This project focuses on implementing formatted output in C, handling variadic functions, and converting various data types to their correct output formats. It's an essential exercise in learning low-level C programming and understanding how output works at a detailed level.
