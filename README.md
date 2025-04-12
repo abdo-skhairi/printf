@@ -78,3 +78,10 @@ The **`ft_printf`** project is a major part of the 42 *Cursus* that involves cre
 
 ### Importance:
 The **`ft_printf`** project is a crucial part of the 42 *Cursus*. It helps you develop a strong understanding of how formatted output works in C, and it teaches you to implement variadic functions, manage memory, and handle a variety of data types efficiently. This project is foundational for later tasks in the 42 curriculum, and it sharpens your problem-solving and programming skills at a low level.
+
+## 📬 Contact Me
+
+- 📧 **Email:** skhairi.abderahmane@gmail.com  
+- 📸 **Instagram:** [@abdo.skh](https://instagram.com/abdo.skh)
+
+---
